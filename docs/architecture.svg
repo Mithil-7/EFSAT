@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5eead4"/></marker></defs>
+<rect width="1400" height="620" fill="#08111f"/><text x="60" y="55" fill="#f8fafc" font-size="30" font-family="Arial" font-weight="700">EFSAT • semantic delta intelligence</text>
+<g font-family="Arial" font-size="16" fill="#dbeafe" stroke="#24506d" stroke-width="2">
+<rect x="55" y="190" width="180" height="110" rx="14" fill="#10283d"/><text x="78" y="225" stroke="none">GeoTIFF / COG</text><text x="78" y="253" stroke="none">satellite scenes</text>
+<rect x="285" y="110" width="230" height="110" rx="14" fill="#123b4a"/><text x="310" y="145" stroke="none">Quality + alignment</text><text x="310" y="173" stroke="none">cloud mask • tiles</text>
+<rect x="285" y="350" width="230" height="110" rx="14" fill="#123b4a"/><text x="310" y="385" stroke="none">Baseline semantic map</text><text x="310" y="413" stroke="none">objects • embeddings</text>
+<rect x="570" y="110" width="240" height="110" rx="14" fill="#27354d"/><text x="595" y="145" stroke="none">AI inference</text><text x="595" y="173" stroke="none">search + change models</text>
+<rect x="570" y="350" width="240" height="110" rx="14" fill="#3d3041"/><text x="595" y="385" stroke="none">Event encoder</text><text x="595" y="413" stroke="none">code + coordinate delta</text>
+<rect x="870" y="190" width="220" height="110" rx="14" fill="#164e63"/><text x="895" y="225" stroke="none">Semantic packet</text><text x="895" y="253" stroke="none">timestamp • confidence</text>
+<rect x="1150" y="190" width="190" height="110" rx="14" fill="#134e4a"/><text x="1173" y="225" stroke="none">Analyst UI</text><text x="1173" y="253" stroke="none">map • queue • export</text>
+</g>
+<g stroke="#5eead4" stroke-width="3" fill="none" marker-end="url(#a)"><path d="M235 245 L285 165"/><path d="M400 220 L400 350"/><path d="M515 165 L570 165"/><path d="M515 405 L570 405"/><path d="M810 165 L870 245"/><path d="M810 405 L870 270"/><path d="M1090 245 L1150 245"/></g>
+<text x="55" y="555" fill="#94a3b8" font-size="18" font-family="Arial">Baseline once → compact event updates → evidence-backed analyst decisions</text>
+</svg>
